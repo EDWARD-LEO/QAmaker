@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "QAMaker",
+  "version": "1.0",
+  "description": "Quickly Answers Maker | Constructor de respuestas rápidas",
+  "icons": {
+    "128": "icon.png"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
