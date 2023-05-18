@@ -1,9 +1,9 @@
 body{
-  width: 500px;
-  height: 350px;
-  margin-top: 15px;
+  width: 600px;
+  height: 380px;
+  padding: 10px;
 }
 
-table{
+small, table{
   width: 100%;
 }

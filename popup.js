@@ -1,10 +1,11 @@
-const btCopy = document.querySelector("#textcopy");
-const txTexto = document.querySelector("#texto");
+const btCopiar = document.querySelector("#copiar");
+const btGenerar = document.querySelector("#generar");
+const txMensaje = document.querySelector("#mensaje");
 const tagSmall = document.querySelector("small");
 
-btCopy.addEventListener("click", () => {
+btCopiar.addEventListener("click", () => {
   
-  navigator.clipboard.writeText(txTexto.value)
+  navigator.clipboard.writeText(txMensaje.value)
     .then( () => {
       tagSmall.innerHTML = "Texto copiado al portapapeles";
     })

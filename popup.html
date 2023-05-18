@@ -9,44 +9,74 @@
   <link rel="stylesheet" href="estilos.css">
 </head>
 <body>
-  <div class="container">
-    <table>
-      <tbody>
-        <tr>
-          <td>
-            <div class="form-floating">
-              <select name="activity-type" id="activity-type" class="form-select">
-                <option value="">Foro temático</option>
-                <option value="">Actividad entregable</option>
-                <option value="">Cuaderno de informe</option>
-              </select>
-              <label for="activity-type">Tipo de actividad</label>
-            </div>
-          </td>
-          <td>
-            <select name="" id="" class="form-select">
-              <option value="">Seleccione</option>
-              <option value="">A</option>
-              <option value="">B</option>
-              <option value="">C</option>
-            </select>
-          </td>
-          <td>
-            <select name="" id="" class="form-select">
-              <option value="">Seleccione</option>
-              <option value="">A</option>
-              <option value="">B</option>
-              <option value="">C</option>
-            </select>
-          </td>
-        </tr>
-      </tbody>
-    </table>
+  
 
-    <input type="text" class="form-control" id="texto">
-    <button class="btn btn-info" type="button" id="textcopy">Copiar texto</button>
-    <small></small>
-  </div>
+  <table>
+    <tbody>
+      <tr>
+        <td colspan="3">
+          Dirigirse a: 
+            <div class="form-check">
+              <input class="form-check-input" id="man" name="sex" type="radio" checked>
+              <label for="man" class="form-check-label">Hombre</label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" id="women" name="sex" type="radio">
+              <label for="women" class="form-check-label">Mujer</label>
+            </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div class="form-floating">
+            <select name="activity-type" id="activity-type" class="form-select">
+              <option value="F">Foro temático</option>
+              <option value="A">Actividad entregable</option>
+              <option value="C">Cuaderno de informe</option>
+              <option value="P">Participación</option>
+            </select>
+            <label for="activity-type">Tipo de actividad</label>
+          </div>
+        </td>
+        <td>
+          <div class="form-floating">
+            <select name="appreciate" id="appreciate" class="form-select">
+              <option value="M">Malo</option>
+              <option value="R">Regular</option>
+              <option value="B" selected>Bueno</option>
+              <option value="O">Óptimo</option>
+            </select>
+            <label for="appreciate">Apreciación</label>
+          </div>
+        </td>
+        <td>
+          <div class="form-floating">
+            <select name="time-task" id="time-task" class="form-select">
+              <option value="T" selected>A tiempo</option>
+              <option value="A">Atrasado</option>
+              <option value="N">No aplica</option>
+            </select>
+            <label for="time-task">Puntualidad</label>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="3">
+          <textarea name="message" id="mensaje" rows="6" class="form-control mt-2"></textarea>
+          <span>Total de palabras: <strong>0</strong></span>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <small>Copiado correctamente</small>
+        </td>
+        <td colspan="2" class="text-end">
+          <button class="btn btn-sm btn-info" type="button" id="generar">Generar</button>
+          <button class="btn btn-sm btn-info" type="button" id="copiar">Copiar texto</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
   <script src="popup.js"></script>
 
