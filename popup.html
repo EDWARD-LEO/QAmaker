@@ -17,46 +17,46 @@
         <td colspan="3">
           Dirigirse a: 
             <div class="form-check">
-              <input class="form-check-input" id="man" name="sex" type="radio" checked>
-              <label for="man" class="form-check-label">Hombre</label>
+              <input class="form-check-input" id="hombre" name="genero" type="radio" checked>
+              <label for="hombre" class="form-check-label">Hombre</label>
             </div>
             <div class="form-check">
-              <input class="form-check-input" id="women" name="sex" type="radio">
-              <label for="women" class="form-check-label">Mujer</label>
+              <input class="form-check-input" id="mujer" name="genero" type="radio">
+              <label for="mujer" class="form-check-label">Mujer</label>
             </div>
         </td>
       </tr>
       <tr>
         <td>
           <div class="form-floating">
-            <select name="activity-type" id="activity-type" class="form-select">
+            <select name="tipo-actividad" id="tipo-actividad" class="form-select">
               <option value="F">Foro temático</option>
               <option value="A">Actividad entregable</option>
               <option value="C">Cuaderno de informe</option>
               <option value="P">Participación</option>
             </select>
-            <label for="activity-type">Tipo de actividad</label>
+            <label for="tipo-actividad">Tipo de actividad</label>
           </div>
         </td>
         <td>
           <div class="form-floating">
-            <select name="appreciate" id="appreciate" class="form-select">
+            <select name="apreciacion" id="apreciacion" class="form-select">
               <option value="M">Malo</option>
               <option value="R">Regular</option>
               <option value="B" selected>Bueno</option>
               <option value="O">Óptimo</option>
             </select>
-            <label for="appreciate">Apreciación</label>
+            <label for="apreciacion">Apreciación</label>
           </div>
         </td>
         <td>
           <div class="form-floating">
-            <select name="time-task" id="time-task" class="form-select">
+            <select name="puntualidad" id="puntualidad" class="form-select">
               <option value="T" selected>A tiempo</option>
               <option value="A">Atrasado</option>
               <option value="N">No aplica</option>
             </select>
-            <label for="time-task">Puntualidad</label>
+            <label for="puntualidad">Puntualidad</label>
           </div>
         </td>
       </tr>
@@ -71,6 +71,7 @@
           <small>Copiado correctamente</small>
         </td>
         <td colspan="2" class="text-end">
+          <button class="btn btn-sm btn-info" type="button" id="cambio">Cambio</button>
           <button class="btn btn-sm btn-info" type="button" id="generar">Generar</button>
           <button class="btn btn-sm btn-info" type="button" id="copiar">Copiar texto</button>
         </td>
