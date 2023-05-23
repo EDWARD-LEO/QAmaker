@@ -14,7 +14,7 @@
   <table>
     <tbody>
       <tr>
-        <td colspan="3">
+        <td colspan="2">
           Dirigirse a: 
             <div class="form-check">
               <input class="form-check-input" id="hombre" name="genero" type="radio" checked>
@@ -25,15 +25,18 @@
               <label for="mujer" class="form-check-label">Mujer</label>
             </div>
         </td>
+        <td style="text-align: right; vertical-align: text-top;">
+          <a href="mailto:jfrancia@senati.pe" style="font-size: 10px;" title="Jhon Edward Francia Minaya">Creado por JEFM</a>
+        </td>
       </tr>
       <tr>
         <td>
           <div class="form-floating">
             <select name="tipo-actividad" id="tipo-actividad" class="form-select">
-              <option value="F">Foro temático</option>
-              <option value="A">Actividad entregable</option>
-              <option value="C">Cuaderno de informe</option>
-              <option value="P">Participación</option>
+              <option value="forotematico">Foro temático</option>
+              <option value="aentregable">Actividad entregable</option>
+              <option value="cuaderno">Cuaderno de informe</option>
+              <option value="participacion">Participación</option>
             </select>
             <label for="tipo-actividad">Tipo de actividad</label>
           </div>
@@ -41,10 +44,10 @@
         <td>
           <div class="form-floating">
             <select name="apreciacion" id="apreciacion" class="form-select">
-              <option value="M">Malo</option>
-              <option value="R">Regular</option>
-              <option value="B" selected>Bueno</option>
-              <option value="O">Óptimo</option>
+              <option value="malo">Malo</option>
+              <option value="regular">Regular</option>
+              <option value="bueno" selected>Bueno</option>
+              <option value="optimo">Óptimo</option>
             </select>
             <label for="apreciacion">Apreciación</label>
           </div>
@@ -52,9 +55,8 @@
         <td>
           <div class="form-floating">
             <select name="puntualidad" id="puntualidad" class="form-select">
-              <option value="T" selected>A tiempo</option>
+              <option value="T">A tiempo</option>
               <option value="A">Atrasado</option>
-              <option value="N">No aplica</option>
             </select>
             <label for="puntualidad">Puntualidad</label>
           </div>
@@ -63,7 +65,7 @@
       <tr>
         <td colspan="3">
           <textarea name="message" id="mensaje" rows="6" class="form-control mt-2"></textarea>
-          <span>Total de palabras: <strong>0</strong></span>
+          <span>Total de palabras: <strong id="totalpalabras">0</strong></span>
         </td>
       </tr>
       <tr>
