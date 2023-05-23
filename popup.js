@@ -46,7 +46,10 @@ opHombre.addEventListener("click", setHombre);
 opMujer.addEventListener("click", setMujer);
 
 slTipoActividad.addEventListener("change", () => {
+  //Asignando valor por defecto
   localStorage.setItem("tipo-actividad", slTipoActividad.value);
+
+  
 });
 
 btCopiar.addEventListener("click", () => {

@@ -1,10 +1,11 @@
 {
   "info": {
-    "creado": "Jhon Edward Francia Minaya",
-    "version": 1
+    "autor": "Jhon Edward Francia Minaya",
+    "version": 1,
+    "fecha": "2023-05-23"
   },
 
-  "actividades": {
+  "tipoactividad": {
     "forotematico": {
       "malo": [
         "Tómate el tiempo para revisar las respuestas del foro ya que existen observaciones. Identifica los puntos débiles, como falta de claridad, falta de sustento o errores de información.",
@@ -41,6 +42,123 @@
         "Me impresiona la profundidad de análisis que han mostrado en sus respuestas. Han demostrado un excelente nivel de reflexión y pensamiento crítico.",
         "Felicitaciones por su participación activa en el foro. Sus aportes han enriquecido las discusiones y han generado un ambiente de aprendizaje enriquecedor.",
         "¡Excelente participación en el foro! Ha demostrado un compromiso destacado al compartir ideas y responder de manera respetuosa."
+      ]
+    },
+
+    "aentregable": {
+      "malo": [
+        "El trabajo presenta una falta de estructura clara, lo que dificulta la comprensión de los puntos principales y su desarrollo.",
+        "El trabajo presenta una falta de originalidad, con una evidente falta de aportes novedosos o propuestas creativas, limitándose a reproducir información ya existente.",
+        "La redacción del trabajo es deficiente, con numerosos errores gramaticales y de puntuación que afectan la fluidez y coherencia del texto.",
+        "Las múltiples observaciones, sugiere una ausencia de investigación rigurosa, lo que afecta la fundamentación teórica del trabajo.",
+        "El contenido del trabajo carece de profundidad y análisis crítico, presentando una mera recopilación superficial de información sin una reflexión sustancial.",
+        "La falta de ejemplos concretos y de casos de estudio limita la comprensión de los conceptos abordados y la aplicación práctica de los mismos.",
+        "La falta de cohesión entre párrafos y la ausencia de transiciones adecuadas dificultan la secuencia lógica de las ideas, afectando la estructura del trabajo."
+      ],
+      "regular": [
+        "Si bien el trabajo aborda el tema propuesto, se nota una falta de profundidad en el análisis y la argumentación, lo que limita su impacto.",
+        "La estructura del trabajo es adecuada en general, pero se podría mejorar la organización de los párrafos y la claridad en la presentación de las ideas.",
+        "El contenido del trabajo muestra cierta inconsistencia en la presentación de los datos y la falta de ejemplos concretos para respaldar las afirmaciones realizadas.",
+        "La redacción del trabajo es comprensible, aunque se identifican algunos errores gramaticales y de puntuación que podrían corregirse para mejorar la fluidez del texto.",
+        "La falta de originalidad en la propuesta planteada hace que el trabajo se asemeje a otros previamente realizados, sería interesante incorporar perspectivas o enfoques distintos.",
+        "Si bien se observa un esfuerzo en la investigación, sería recomendable profundizar más en la búsqueda de datos actualizados y relevantes para respaldar las ideas expuestas.",
+        "La conclusión del trabajo podría ser más sólida, brindando un cierre contundente y retomando los puntos clave abordados a lo largo del texto."
+      ],
+      "bueno": [
+        "El trabajo muestra una excelente estructura y organización, facilitando la comprensión y seguimiento de las ideas presentadas.",
+        "Se evidencia una profunda investigación y un manejo riguroso de fuentes, lo que respalda de manera sólida los argumentos y conclusiones del trabajo.",
+        "La redacción es clara y precisa, con un excelente uso del lenguaje académico y una correcta aplicación de las normas gramaticales y de puntuación.",
+        "El contenido del trabajo presenta un análisis profundo y crítico, demostrando un dominio sólido del tema y una capacidad para desarrollar ideas originales.",
+        "La selección de ejemplos y casos de estudio es pertinente y enriquecedora, permitiendo una mejor comprensión de los conceptos y su aplicación práctica.",
+        "El trabajo demuestra un enfoque innovador y creativo, presentando ideas frescas y propuestas que agregan valor y generan nuevas perspectivas en el campo estudiado.",
+        "La fluidez en la transición entre párrafos y la coherencia global del trabajo son ejemplares, permitiendo una lectura fluida y una comprensión holística del tema."
+      ],
+      "optimo": [
+        "El trabajo demuestra un nivel de excelencia en todos los aspectos, desde la estructura hasta la profundidad del análisis, destacando por su calidad sobresaliente.",
+        "Ha demostrado un dominio destacado de la materia, demostrando un profundo conocimiento y una capacidad para abordar el tema desde diferentes perspectivas.",
+        "El contenido del trabajo es excepcional, presentando ideas originales y un enfoque crítico que aporta nuevas perspectivas al tema estudiado.",
+        "La selección y presentación de ejemplos y casos de estudio es excepcionalmente relevante y enriquecedora, ilustrando de manera efectiva los conceptos teóricos.",
+        "Ha demostrado un pensamiento analítico y reflexivo de alto nivel, abordando de manera profunda y sofisticada los problemas planteados en el trabajo.",
+        "El trabajo revela una creatividad excepcional, presentando ideas innovadoras y soluciones originales que aportan nuevas contribuciones al campo de estudio.",
+        "La organización y estructura del trabajo son ejemplares, permitiendo una lectura fluida y una comprensión clara de la secuencia lógica de las ideas presentadas."
+      ]
+    },
+
+    "cuaderno": {
+      "malo": [
+        "Es evidente que has puesto esfuerzo en tu presentación, pero sería recomendable revisar y corregir los errores ortográficos y gramaticales para mejorar la presentación general.",
+        "A pesar de los errores presentes, se aprecia tu dedicación en la realización de las actividades. Te sugiero prestar más atención a los detalles en futuras entregas.",
+        "Es importante cuidar la presentación de tu cuaderno de informe. Asegúrate de que esté legible y ordenado, y evita los errores comunes que puedas corregir antes de entregarlo.",
+        "Recuerda revisar tus respuestas antes de finalizar el cuaderno de informe. Esto te ayudará a detectar y corregir errores que podrían haberse evitado.",
+        "Aunque hay errores en tu cuaderno de informe, se nota que has comprendido los conceptos. Te animo a prestar más atención a los detalles para mejorar aún más tu desempeño.",
+        "Es esencial prestar atención a las instrucciones y leer cuidadosamente las preguntas antes de responder. Esto evitará confusiones y errores en tu cuaderno de informe.",
+        "Trabaja en mejorar la claridad y estructura de tus escritos para transmitir tus ideas de manera más efectiva."
+      ],
+      "regular": [
+        "Se aprecia tu esfuerzo en la realización de las actividades en tu cuaderno de informe, aunque sería beneficioso revisar y corregir algunos errores para mejorar aún más.",
+        "Tu cuaderno de informe muestra un buen seguimiento de las actividades propuestas, pero te recomendaría prestar más atención a la organización y presentación general.",
+        "Es importante revisar y verificar tus respuestas para evitar errores o inexactitudes en tu cuaderno de informe. Esto contribuirá a una mayor precisión en tus resultados.",
+        "Se nota que has comprendido los conceptos fundamentales, pero sería útil profundizar un poco más en algunos aspectos para fortalecer tus respuestas en el cuaderno de informe",
+        "Te animo a tomar más tiempo para planificar y estructurar tus respuestas en el cuaderno de informe, asegurándote de que se desarrolle de manera lógica y coherente.",
+        "Sería beneficioso repasar las instrucciones y asegurarte de responder adecuadamente a todas las partes de las preguntas en tu cuaderno de informe.",
+        "Si bien tu cuaderno de informe está bien, te invito a buscar oportunidades para profundizar en los temas y ofrecer un análisis más detallado en futuras entregas."
+      ],
+      "bueno": [
+        "Tu cuaderno de informe refleja un alto nivel de organización y estructura, lo cual facilita la comprensión de tus ideas y el seguimiento de tu progreso.",
+        "Se aprecia tu esfuerzo en realizar un informe minucioso y ordenado. Tus respuestas están bien fundamentadas y muestran un pensamiento analítico claro.",
+        "La claridad y coherencia de tus respuestas en el cuaderno de informe son destacables. Has logrado comunicar tus ideas de manera precisa y concisa.",
+        "Tu cuaderno de informe muestra una estructura sólida y una presentación ordenada. Es evidente que has organizado tus ideas de manera clara y coherente",
+        "La redacción y gramática de tu cuaderno de informe son excelentes. Has demostrado un dominio destacado del lenguaje y una escritura fluida.",
+        "Es evidente que has aprovechado al máximo las actividades propuestas en el cuaderno de informe. Tus respuestas muestran un nivel de profundidad y comprensión avanzado.",
+        "Tu cuaderno de informe destaca por tu creatividad al abordar los problemas planteados. Has ofrecido soluciones innovadoras y propuestas interesantes."
+      ],
+      "optimo": [
+        "Felicitaciones por la presentación impecable de tu cuaderno de informe. Se nota tu dedicación y atención a los detalles en cada respuesta.",
+        "Tu cuaderno de informe destaca por su impecable presentación, organización y estructura. Es un reflejo de tu compromiso con la excelencia académica.",
+        "Felicidades por el excelente trabajo en la elaboración de tu cuaderno. Se nota tu dedicación y cuidado en cada detalle, lo cual demuestra tu compromiso con la calidad.",
+        "Tu cuaderno de informe muestra una habilidad destacada para comunicar tus ideas de manera clara y concisa. La redacción es fluida y la estructura facilita la comprensión.",
+        "Destaco la calidad de tu redacción y la precisión en la expresión de tus ideas en el cuaderno de informe. Tu escritura es clara, concisa y elegante.",
+        "Tu cuaderno de informe es una muestra de tu creatividad y originalidad. Has encontrado soluciones innovadoras y planteado ideas interesantes que enriquecen el contenido.",
+        "Felicitaciones por el magnífico trabajo que has realizado en tu cuaderno. Es evidente que has dedicado tiempo y esfuerzo para lograr un nivel de excelencia."
+      ]
+    },
+
+    "participacion": {
+      "malo": [
+        "Lamentablemente, se ha notado una falta de participación activa por tu parte durante el curso. Te insto a que aproveches las oportunidades de participación para enriquecer tu experiencia educativa.",
+        "La participación es una parte fundamental del aprendizaje y la interacción en el aula. Te animo a que te involucres más activamente en las actividades y discusiones para aprovechar al máximo el curso.",
+        "Se ha notado una ausencia de contribuciones y participación por tu parte. Recuerda que tu participación es valiosa y puede enriquecer tanto tu aprendizaje como el de tus compañeros.",
+        "La participación activa en el curso es importante para fortalecer tus habilidades y ampliar tus conocimientos. Te insto a que te involucres más en las discusiones y actividades.",
+        "El intercambio de ideas y perspectivas en el aula es fundamental para un aprendizaje significativo. Te animo a que compartas tus opiniones y contribuyas al desarrollo de las discusiones.",
+        "Es importante que te involucres en el curso y aproveches las oportunidades para hacer preguntas y expresar tus ideas. Tu participación puede enriquecer el aprendizaje de todos los involucrados.",
+        "La falta de participación ha limitado tu capacidad de aprender y aprovechar al máximo el curso. Te animo a que te involucres más y te comprometas con las actividades y discusiones."
+      ],
+      "regular": [
+        "Aprecio tu nivel de participación constante durante el curso. Sigue trabajando para mejorar y aprovechar aún más las oportunidades de participación.",
+        "Has mostrado una participación consistente en las discusiones y actividades del curso. Continúa involucrándote y compartiendo tus ideas para enriquecer la experiencia de aprendizaje.",
+        "Tu participación regular ha contribuido al ambiente de colaboración en el aula. Sigue participando activamente y aprovechando las oportunidades para interactuar con tus compañeros.",
+        "Se nota que te has esforzado por participar de manera regular durante el curso. Recuerda que cada aporte que haces enriquece la dinámica de clase y promueve un aprendizaje mutuo.",
+        "Aprecio tu nivel de participación estable a lo largo del curso. Te animo a que sigas compartiendo tus ideas y perspectivas, ya que contribuyen al enriquecimiento del aprendizaje colectivo.",
+        "Tu participación regular ha demostrado tu compromiso con el curso. Sigue participando activamente y aprovecha la oportunidad de aprender de tus compañeros y del instructor.",
+        "Has logrado mantener una participación regular en las actividades del curso. Te aliento a que sigas involucrándote y compartiendo tus experiencias para generar un ambiente de aprendizaje colaborativo."
+      ],
+      "bueno": [
+        "Su participación activa y constante ha sido ejemplar. Agradezco tu contribución al ambiente de aprendizaje colaborativo y tus valiosas perspectivas en las discusiones.",
+        "Destaco su nivel de participación durante el curso. Tu interés, preguntas y comentarios demuestran tu compromiso con el aprendizaje y el enriquecimiento de las temáticas abordadas.",
+        "Su participación ha sido sobresaliente. Has demostrado un profundo compromiso con el curso al aportar ideas pertinentes y constructivas en las discusiones y actividades.",
+        "Aprecio tu participación activa y tus intervenciones reflexivas en el curso. Tus aportes han generado un ambiente de aprendizaje dinámico.",
+        "Has mostrado una participación constante y de alta calidad durante todo el curso. Tus aportes han evidenciado tu dominio de los contenidos y tu capacidad para generar debate enriquecedor.",
+        "Tu participación activa ha sido un ejemplo para el resto de la clase. Tus preguntas perspicaces y tus comentarios constructivos han enriquecido nuestra comprensión de los temas.",
+        "Destaco tu compromiso con el curso a través de tu participación regular y relevante. Tu disposición para compartir tus conocimientos y experiencias ha enriquecido la experiencia de todos."
+      ],
+      "optimo": [
+        "Felicitaciones por tu destacada participación a lo largo del curso. Tu compromiso y aportes en las discusiones han enriquecido significativamente nuestro aprendizaje colectivo.",
+        "Tu nivel de participación ha sido excelente. Tus intervenciones han sido fundamentales para fomentar la reflexión crítica y promover un aprendizaje más profundo entre tus compañeros.",
+        "Tu participación ha sido ejemplar a lo largo del curso. Has demostrado un compromiso excepcional al contribuir con ideas innovadoras y respetuosas, enriqueciendo nuestras discusiones y actividades.",
+        "Felicidades por tu participación ejemplar durante el curso. Tus intervenciones han demostrado un profundo entendimiento de los temas y han inspirado a tus compañeros.",
+        "Tu nivel de participación ha sido excepcional. Tus comentarios reflexivos, preguntas incisivas y aportes fundamentados han elevado el nivel de aprendizaje en las sesiones.",
+        "Tu participación excelente ha sido evidente en cada interacción. Tu habilidad para liderar discusiones, brindar retroalimentación constructiva y compartir recursos ha sido inigualable.",
+        "Tu participación activa y sustancial ha sido un verdadero ejemplo a seguir. Tus aportes han contribuido significativamente al aprendizaje colectivo y han enriquecido nuestra experiencia."
       ]
     }
   },
