@@ -1,0 +1,60 @@
+{
+  "info": {
+    "creado": "Jhon Edward Francia Minaya",
+    "version": 1
+  },
+
+  "actividades": {
+    "forotematico": {
+      "malo": [
+        "Tómate el tiempo para revisar las respuestas del foro ya que existen observaciones. Identifica los puntos débiles, como falta de claridad, falta de sustento o errores de información.",
+        "Antes de escribir cualquier respuesta en el foro, tómate un momento para leer y comprender completamente el mensaje o la pregunta.",
+        "Reflexiona sobre la información proporcionada y piensa cuidadosamente en tu respuesta antes de enviarla. Evita las respuestas impulsivas o mal fundamentadas.",
+        "Investiga y verifica tus afirmaciones: Antes de publicar cualquier información o afirmación en un foro, asegúrate de verificar su exactitud y fiabilidad.",
+        "Investiga adecuadamente tus fuentes y proporciona enlaces o referencias relevantes cuando sea necesario. Esto ayudará a fortalecer tus argumentos y aumentar la credibilidad de tus respuestas.",
+        "Aporta argumentos sólidos. Al participar en un foro web, es importante respaldar tus opiniones con argumentos sólidos y evidencia relevante. Proporciona ejemplos que apoyen tus puntos de vista.",
+        "Asegúrate de leer cuidadosamente las reglas y pautas del foro web. Esto te dará una idea clara de cómo debes participar y qué tipo de respuestas son apropiadas. Si tienes dudas, no dudes en preguntar."
+      ],
+      "regular": [
+        "Profundiza en tus respuestas: En lugar de limitarte a respuestas superficiales, intenta ampliar tus respuestas y aportar más detalles. Investiga y busca información adicional para respaldar tus argumentos y enriquecer tus contribuciones al foro",
+        "Cuando sea adecuado, utiliza ejemplos y casos prácticos para respaldar tus puntos de vista. Los ejemplos concretos ayudan a ilustrar tus ideas y a hacerlas más comprensibles para los demás participantes.",
+        "Sé crítico y reflexivo: No te limites a respuestas superficiales o repetir información que ya se ha mencionado. Muestra tu capacidad de análisis y reflexión crítica al abordar los temas del foro.",
+        "Mantén una presentación y formato adecuados: Asegúrate de que tus respuestas sean legibles y estén bien presentadas. Utiliza un lenguaje claro y gramaticalmente correcto.",
+        "Divide tus respuestas en párrafos para facilitar la lectura. Si es posible, utiliza formato de lista o viñetas para organizar tus ideas de manera más clara.",
+        "Realiza aportes originales: Evita simplemente repetir o reafirmar lo que otros han dicho en el foro. Busca ofrecer aportes originales y diferentes perspectivas que enriquezcan la discusión.",
+        "Sé proactivo en la búsqueda de respuestas y soluciones: Si tienes dudas o no entiendes algún aspecto de la discusión, no dudes en buscar respuestas o aclaraciones adicionales. Investiga por tu cuenta."
+      ],
+      "bueno": [
+        "Sus respuestas son informativas, bien fundamentadas y muestran un genuino interés por el tema en discusión",
+        "Quiero reconocer su iniciativa al buscar información adicional y compartir recursos relevantes con el grupo.  Esto ha enriquecido la discusión y ha brindado oportunidades de aprendizaje adicionales para todos.",
+        "Ha demostrado una excelente habilidad para comunicar ideas complejas de manera clara y concisa. Sus respuestas son fáciles de seguir y han facilitado la comprensión del foro.",
+        "Ha demostrado un compromiso constante, participando adecudamente y manteniendo la calidad en sus respuestas. ¡Siga por ese camino!",
+        "Su participación es destacable, ha mostrado curiosidad intelectual al investigar y compartir fuentes confiables que respaldan sus argumentos.",
+        "Su capacidad para considerar diferentes perspectivas y expresar sus opiniones de manera clara y coherente es admirable.",
+        "Destaco la originalidad de las respuestas en el foro. Sus ideas frescas y su capacidad para ofrecer perspectivas únicas han elevado el nivel de la discusión."
+      ],
+      "optimo": [
+        "Felicidades por su participación constructiva. Sus comentarios van más allá de lo básico y muestran un pensamiento crítico y reflexivo. ¡Siga así!.",
+        "La participación en este foro destaca por su originalidad. Con grandes ideas y contribuciones valiosas que enriquecen la discusión, ¡Muy bien!.",
+        "Me alegra ver cómo han utilizado ejemplos y casos prácticos para respaldar sus argumentos. Esto ha enriquecido la comprensión del tema y ha facilitado la conexión entre la teoría y la aplicación real.",
+        "Ha demostrado un compromiso excepcional al mantener una excelente participación en el foro. Su dedicación y entusiasmo por la discusión del tema ha sido evidente.",
+        "Me impresiona la profundidad de análisis que han mostrado en sus respuestas. Han demostrado un excelente nivel de reflexión y pensamiento crítico.",
+        "Felicitaciones por su participación activa en el foro. Sus aportes han enriquecido las discusiones y han generado un ambiente de aprendizaje enriquecedor.",
+        "¡Excelente participación en el foro! Ha demostrado un compromiso destacado al compartir ideas y responder de manera respetuosa."
+      ]
+    }
+  },
+
+  "puntualidad": {
+    "atrasado": [
+      "Organice mejor su tiempo para entregar la actividad según fecha indicada.",
+      "Verifique la fecha y hora límite de la actividad.",
+      "Cumpla la entrega de asignaciones o trabajos según lo planificado.",
+      "Controle mejor su horario a fin de presentar los trabajos a tiempo.",
+      "Lo encomendado se presentó fuera de la fecha y hora establecida.",
+      "Gestione de mejor sus tiempos. Existe un cronograma de presentación.",
+      "No olvide que las asignaciones tienen una fecha límite de entrega."
+    ]
+  }
+  
+}
